@@ -22,7 +22,7 @@
           <a class="nav-link active" href="#">Bar</a>
         </li>
         <li class="nav-item" style="width:85px; text-align:center; margin-top:15px;">
-          <a class="nav-link active" href="#">로그이이인</a>
+          <a class="nav-link active" href="#">로그이이인/a>
         </li>
       </ul>
     </div>

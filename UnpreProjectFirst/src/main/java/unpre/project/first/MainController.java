@@ -12,4 +12,13 @@ public class MainController {
 	public ModelAndView main() {
 		return new ModelAndView("alcohol/main");
 	}
+	  @RequestMapping(value="login", method=RequestMethod.GET)
+	   public ModelAndView login() {
+	      return new ModelAndView("alcohol/login");
+	}
+	   @RequestMapping(value="join", method=RequestMethod.GET)
+	   public ModelAndView join() {
+	      return new ModelAndView("alcohol/join");
+	}
+
 }
